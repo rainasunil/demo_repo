@@ -1,0 +1,5 @@
+C:\Users\insuk3\Desktop\TestingBasic\jenkins\demo_repo\UnitTestProject\UnitTestProject\UnitTestProject\bin\Debug\UnitTestProject.dll
+C:\Users\insuk3\Desktop\TestingBasic\jenkins\demo_repo\UnitTestProject\UnitTestProject\UnitTestProject\bin\Debug\UnitTestProject.pdb
+C:\Users\insuk3\Desktop\TestingBasic\jenkins\demo_repo\UnitTestProject\UnitTestProject\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+C:\Users\insuk3\Desktop\TestingBasic\jenkins\demo_repo\UnitTestProject\UnitTestProject\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\Users\insuk3\Desktop\TestingBasic\jenkins\demo_repo\UnitTestProject\UnitTestProject\UnitTestProject\obj\Debug\UnitTestProject.pdb
