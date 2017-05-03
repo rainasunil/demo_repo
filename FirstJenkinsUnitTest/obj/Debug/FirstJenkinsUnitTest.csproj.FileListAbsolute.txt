@@ -1,5 +1,0 @@
-C:\Users\insuk3\Desktop\TestingBasic\jenkins\demo_repo\FirstJenkinsUnitTest\bin\Debug\FirstJenkinsUnitTest.dll
-C:\Users\insuk3\Desktop\TestingBasic\jenkins\demo_repo\FirstJenkinsUnitTest\bin\Debug\FirstJenkinsUnitTest.pdb
-C:\Users\insuk3\Desktop\TestingBasic\jenkins\demo_repo\FirstJenkinsUnitTest\obj\Debug\FirstJenkinsUnitTest.csprojResolveAssemblyReference.cache
-C:\Users\insuk3\Desktop\TestingBasic\jenkins\demo_repo\FirstJenkinsUnitTest\obj\Debug\FirstJenkinsUnitTest.dll
-C:\Users\insuk3\Desktop\TestingBasic\jenkins\demo_repo\FirstJenkinsUnitTest\obj\Debug\FirstJenkinsUnitTest.pdb
