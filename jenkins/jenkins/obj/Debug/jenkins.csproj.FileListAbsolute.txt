@@ -1,6 +1,0 @@
-C:\Users\insuk3\Desktop\TestingBasic\jenkins\jenkins\bin\Debug\jenkins.exe.config
-C:\Users\insuk3\Desktop\TestingBasic\jenkins\jenkins\bin\Debug\jenkins.exe
-C:\Users\insuk3\Desktop\TestingBasic\jenkins\jenkins\bin\Debug\jenkins.pdb
-C:\Users\insuk3\Desktop\TestingBasic\jenkins\jenkins\obj\Debug\jenkins.csprojResolveAssemblyReference.cache
-C:\Users\insuk3\Desktop\TestingBasic\jenkins\jenkins\obj\Debug\jenkins.exe
-C:\Users\insuk3\Desktop\TestingBasic\jenkins\jenkins\obj\Debug\jenkins.pdb
