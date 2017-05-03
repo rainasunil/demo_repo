@@ -11,7 +11,7 @@ namespace UnitTestProject
         {
             int sum =0;
             sum = sum + 10;
-            Console.WriteLine("sum of two nos = {0}", sum);
+            Assert.AreEqual(sum, 10);
         }
     }
 }
